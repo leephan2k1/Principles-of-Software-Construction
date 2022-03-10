@@ -1,6 +1,5 @@
 # CT240 Principles-of-Software-Construction (Nguyên lý xây dựng phần mềm)
 
-## Practice 01: JUnit Testing
 ## Thực hành 01: Kiểm thử Junit
 * [Junit 5 testing](https://github.com/leephan2k1/Principles-of-Software-Construction/tree/main/learn-junit)
 * Show this code in local:
